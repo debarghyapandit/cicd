@@ -12,6 +12,7 @@ Then create GitLab, GitLab runner, WeaveScope, Jenkins BlueOcean, Ansible, Sonar
 It also install 2 demos projects: Insecure demo & Secure Demo
 
 [![Setup Video](https://asciinema.org/a/MIz7enVsVbKRTlEO9ehwjgn7h.png)](https://asciinema.org/a/MIz7enVsVbKRTlEO9ehwjgn7h)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdebarghyapandit%2Fcicd.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdebarghyapandit%2Fcicd?ref=badge_shield)
 
 
 ### Host names
@@ -65,3 +66,7 @@ This script kills & removes all related containers
 ### bin/print_log.sh
 This script will print out all the links & login details of each CI/CD tools
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdebarghyapandit%2Fcicd.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdebarghyapandit%2Fcicd?ref=badge_large)
